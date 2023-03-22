@@ -3,9 +3,18 @@
     padding: 0;
     margin: 0;
 }
-
+/*Moved the element tags together so they are more organized. */
 body {
     background-color: #d9dcd6;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 .header {
@@ -23,8 +32,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/*Changed div into nav. */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,22 +41,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
