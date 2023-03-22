@@ -1,5 +1,5 @@
 # HTML-CSS-refactoring
-This application is a social media optimization website. The technologies that was used in this application was HTML and CSS.
+This application is a social media optimization informational website. The technologies that was used in this application was HTML and CSS.
 This project was created to further understand the practice of refactoring HTML and CSS semantics as well as best practices.
 
 Application Link
